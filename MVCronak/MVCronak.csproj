@@ -162,14 +162,20 @@
     <Compile Include="Controllers\helloworldController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\MoviesController.cs" />
+=======
+>>>>>>> 3f2717c6eb14f313df08bf4e21c2b3d54da97397
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+<<<<<<< HEAD
     <Compile Include="Models\Movie.cs" />
+=======
+>>>>>>> 3f2717c6eb14f313df08bf4e21c2b3d54da97397
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -234,6 +240,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\helloworld\index.cshtml" />
     <Content Include="Views\helloworld\welcome.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Moviecontroller\Create.cshtml" />
     <Content Include="Views\Moviecontroller\Delete.cshtml" />
     <Content Include="Views\Moviecontroller\Details.cshtml" />
@@ -244,6 +251,8 @@
     <Content Include="Views\Movies\Details.cshtml" />
     <Content Include="Views\Movies\Edit.cshtml" />
     <Content Include="Views\Movies\Index.cshtml" />
+=======
+>>>>>>> 3f2717c6eb14f313df08bf4e21c2b3d54da97397
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
